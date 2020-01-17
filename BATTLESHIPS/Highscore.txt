@@ -1,0 +1,7 @@
+Asia: 5
+Kasia: 6
+Marek: 15
+Wojtek: 11
+Janek: 21
+Radek: 6
+Mateusz: 21
